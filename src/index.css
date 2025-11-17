@@ -1,8 +1,8 @@
-* {
-  font-family: "Inter", sans-serif;
-}
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+@import "tailwindcss";
 
 body {
+  font-family: "Poppins", sans-serif;
   background: linear-gradient(135deg, #a8e6cf 0%, #56ab2f 100%);
   min-height: 100vh;
 }

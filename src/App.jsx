@@ -78,7 +78,7 @@ function App() {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-green-400 to-green-600 py-8 flex flex-col">
+    <div className="min-h-screen bg-linear-to-br from-green-400 to-green-600 py-8 flex flex-col">
       <div className="max-w-4xl mx-auto px-4 flex-1 flex flex-col w-full">
         <Header
           passwordsCount={passwords.length}
